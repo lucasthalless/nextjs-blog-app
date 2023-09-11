@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Blog app
+
+NextJs blog app based on the Next.js foundations course of the official documentation.
